@@ -1,5 +1,4 @@
 # bootcamp
-UofT course 
 ## Kickstarting with Excel Assignment 1
 
 # Overview of Project
